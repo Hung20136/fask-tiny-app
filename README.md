@@ -4,8 +4,9 @@
 ## Thông tin cá nhân
 - **Họ tên:** Phan Lâm Hùng
 - **Mã sinh viên:** 22661791
-- **Họ tên:** Phan Lâm Hùng
-- **Mã sinh viên:** 22661791
+- **Họ tên:** Lê Nguyễn Phúc Hưng
+- **Mã sinh viên:** 22672481
+
 ## Mô tả dự án
 Dự án "Flask Tiny App" là một ứng dụng web đơn giản, kết hợp giữa Blog và To Do List. Ứng dụng cho phép:
 - Người dùng đăng ký và đăng nhập.
